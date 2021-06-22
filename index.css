@@ -1,0 +1,28 @@
+body {
+    background-image: url('image/stopwatch.jpg');
+}
+
+.box{
+    margin-left: 100px;
+    margin-top: 100px;
+}    
+
+.watch {
+    font-size: 90px;
+} 
+
+.btn {
+    margin-left: 100px;
+}
+ 
+button {
+    font-size: 30px;
+}
+
+li {
+    font-size: 30px;
+}
+
+.display {
+    display: none;
+}
